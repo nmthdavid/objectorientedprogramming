@@ -1,0 +1,15 @@
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/bin/Debug/net7.0/nagybeadandokod
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/bin/Debug/net7.0/nagybeadandokod.deps.json
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/bin/Debug/net7.0/nagybeadandokod.runtimeconfig.json
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/bin/Debug/net7.0/nagybeadandokod.dll
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/bin/Debug/net7.0/nagybeadandokod.pdb
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.csproj.AssemblyReference.cache
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.AssemblyInfoInputs.cache
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.AssemblyInfo.cs
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.csproj.CoreCompileInputs.cache
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.dll
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/refint/nagybeadandokod.dll
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.pdb
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/nagybeadandokod.genruntimeconfig.cache
+/Users/nemethdavid/elteik/2felev/oep/nagybeadandokod/nagybeadandokod/obj/Debug/net7.0/ref/nagybeadandokod.dll
